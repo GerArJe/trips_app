@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Wed Jul 24 10:47:29 COT 2019
+=======
+#Wed Jul 24 10:42:10 COT 2019
+>>>>>>> 2c314824f56d137ec8c499616d50091924b016a6
 base.2=D\:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\18
 base.1=D\:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\2
 base.0=D\:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\15
