@@ -4,23 +4,6 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ms\\values-ms.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2950",
-                        "endColumns": "100",
-                        "endOffsets": "3046"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-ms\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -53,14 +36,9 @@
                         "endColumns": "107,204,131,107,230,133,149,135,243,110,205,136,229,204,96,93,111",
                         "endOffsets": "208,413,545,653,884,1018,1168,1304,1753,1864,2070,2207,2437,2642,2739,2833,2945"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-hi\\values-hi.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -71,11 +49,16 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2825",
+                        "startOffsets": "2950",
                         "endColumns": "100",
-                        "endOffsets": "2921"
+                        "endOffsets": "3046"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-hi_values-hi.arsc.flat",
+            "map": [
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-hi\\values.xml",
                     "from": {
@@ -91,6 +74,23 @@
                         "startOffsets": "1274",
                         "endColumns": "204",
                         "endOffsets": "1474"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2825",
+                        "endColumns": "100",
+                        "endOffsets": "2921"
                     }
                 },
                 {
@@ -115,23 +115,6 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-fr-rCA\\values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "3006",
-                        "endColumns": "100",
-                        "endOffsets": "3102"
-                    }
-                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-fr-rCA\\values.xml",
                     "from": {
@@ -165,6 +148,23 @@
                         "endColumns": "219",
                         "endOffsets": "1541"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "3006",
+                        "endColumns": "100",
+                        "endOffsets": "3102"
+                    }
                 }
             ]
         },
@@ -189,23 +189,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-cs\\values-cs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2846",
-                        "endColumns": "100",
-                        "endOffsets": "2942"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-cs\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -220,6 +203,23 @@
                         "startOffsets": "1257",
                         "endColumns": "201",
                         "endOffsets": "1454"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2846",
+                        "endColumns": "100",
+                        "endOffsets": "2942"
                     }
                 }
             ]
@@ -262,7 +262,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -284,7 +284,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -357,23 +357,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2781",
-                        "endColumns": "100",
-                        "endOffsets": "2877"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-hr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -389,14 +372,9 @@
                         "endColumns": "107,188,131,111,215,131,144,135,208,108,187,129,205,172,97,91,109",
                         "endOffsets": "208,397,529,641,857,989,1134,1270,1670,1779,1967,2097,2303,2476,2574,2666,2776"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -407,11 +385,16 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2928",
+                        "startOffsets": "2781",
                         "endColumns": "100",
-                        "endOffsets": "3024"
+                        "endOffsets": "2877"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-pt-rPT\\values.xml",
                     "from": {
@@ -427,6 +410,23 @@
                         "startOffsets": "105,212,407,537,647,874,1004,1156,1498,1745,1855,2056,2189,2407,2615,2713,2812",
                         "endColumns": "106,194,129,109,226,129,151,137,246,109,200,132,217,207,97,98,115",
                         "endOffsets": "207,402,532,642,869,999,1151,1289,1740,1850,2051,2184,2402,2610,2708,2807,2923"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2928",
+                        "endColumns": "100",
+                        "endOffsets": "3024"
                     }
                 },
                 {
@@ -452,7 +452,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-sr\\values-sr.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -508,6 +508,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-te_values-te.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2782",
+                        "endColumns": "100",
+                        "endOffsets": "2878"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-te\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -539,23 +556,6 @@
                         "startOffsets": "1239",
                         "endColumns": "198",
                         "endOffsets": "1433"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2782",
-                        "endColumns": "100",
-                        "endOffsets": "2878"
                     }
                 }
             ]
@@ -598,7 +598,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -637,6 +637,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2814",
+                        "endColumns": "100",
+                        "endOffsets": "2910"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-ka\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -652,9 +669,14 @@
                         "endColumns": "106,180,129,111,212,135,151,136,231,109,185,129,219,168,95,90,104",
                         "endOffsets": "207,388,518,630,843,979,1131,1268,1702,1812,1998,2128,2348,2517,2613,2704,2809"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
+            "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ka\\values-ka.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ky\\values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -665,16 +687,11 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2814",
+                        "startOffsets": "2805",
                         "endColumns": "100",
-                        "endOffsets": "2910"
+                        "endOffsets": "2901"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ky_values-ky.arsc.flat",
-            "map": [
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-ky\\values.xml",
                     "from": {
@@ -708,23 +725,6 @@
                         "endColumns": "107,180,130,108,203,128,144,137,227,108,180,131,195,196,93,89,106",
                         "endOffsets": "208,389,520,629,833,962,1107,1245,1694,1803,1984,2116,2312,2509,2603,2693,2800"
                     }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ky\\values-ky.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2805",
-                        "endColumns": "100",
-                        "endOffsets": "2901"
-                    }
                 }
             ]
         },
@@ -749,23 +749,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-tl\\values-tl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2957",
-                        "endColumns": "100",
-                        "endOffsets": "3053"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-tl\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -780,6 +763,23 @@
                         "startOffsets": "1322",
                         "endColumns": "204",
                         "endOffsets": "1522"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2957",
+                        "endColumns": "100",
+                        "endOffsets": "3053"
                     }
                 }
             ]
@@ -805,23 +805,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ml\\values-ml.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2955",
-                        "endColumns": "100",
-                        "endOffsets": "3051"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-ml\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -837,6 +820,23 @@
                         "endColumns": "120,210,140,122,222,126,134,134,240,117,204,137,207,190,93,98,120",
                         "endOffsets": "221,432,573,696,919,1046,1181,1316,1776,1894,2099,2237,2445,2636,2730,2829,2950"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2955",
+                        "endColumns": "100",
+                        "endOffsets": "3051"
+                    }
                 }
             ]
         },
@@ -844,26 +844,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,14,18,22,25",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
-                        "endLines": "2,3,4,5,6,7,14,18,24,29",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\02fa7a2d85545c9c2fccfed39ff3aef8\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\12a7950ae4a90e4eccf30dd74e101e6e\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -879,6 +860,25 @@
                         "endLines": "10,13,17,21",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "759,922,1216,1511"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
                     }
                 }
             ]
@@ -904,7 +904,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-be\\values-be.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-be\\values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -960,7 +960,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -999,23 +999,6 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2931",
-                        "endColumns": "100",
-                        "endOffsets": "3027"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-es\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -1048,12 +1031,46 @@
                         "endColumns": "109,194,132,109,219,134,151,138,250,110,195,133,223,186,96,98,113",
                         "endOffsets": "210,405,538,648,868,1003,1155,1294,1764,1875,2071,2205,2429,2616,2713,2812,2926"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2931",
+                        "endColumns": "100",
+                        "endOffsets": "3027"
+                    }
                 }
             ]
         },
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-kn_values-kn.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2825",
+                        "endColumns": "100",
+                        "endOffsets": "2921"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-kn\\values.xml",
                     "from": {
@@ -1086,23 +1103,6 @@
                         "startOffsets": "1271",
                         "endColumns": "204",
                         "endOffsets": "1471"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-kn\\values-kn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2825",
-                        "endColumns": "100",
-                        "endOffsets": "2921"
                     }
                 }
             ]
@@ -1145,7 +1145,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1167,6 +1167,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-tr_values-tr.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2845",
+                        "endColumns": "100",
+                        "endOffsets": "2941"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-tr\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -1181,23 +1198,6 @@
                         "startOffsets": "105,217,404,542,649,855,987,1144,1485,1716,1825,2013,2149,2353,2550,2642,2736",
                         "endColumns": "111,186,137,106,205,131,156,134,230,108,187,135,203,196,91,93,108",
                         "endOffsets": "212,399,537,644,850,982,1139,1274,1711,1820,2008,2144,2348,2545,2637,2731,2840"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-tr\\values-tr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2845",
-                        "endColumns": "100",
-                        "endOffsets": "2941"
                     }
                 },
                 {
@@ -1223,7 +1223,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-v16_values-v16.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1272,7 +1272,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1328,7 +1328,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1367,6 +1367,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2765",
+                        "endColumns": "100",
+                        "endOffsets": "2861"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-fi\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -1381,23 +1398,6 @@
                         "startOffsets": "1256",
                         "endColumns": "208",
                         "endOffsets": "1460"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2765",
-                        "endColumns": "100",
-                        "endOffsets": "2861"
                     }
                 }
             ]
@@ -1423,23 +1423,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-fr\\values-fr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2996",
-                        "endColumns": "100",
-                        "endOffsets": "3092"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-fr\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -1454,6 +1437,23 @@
                         "startOffsets": "1326",
                         "endColumns": "223",
                         "endOffsets": "1545"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2996",
+                        "endColumns": "100",
+                        "endOffsets": "3092"
                     }
                 }
             ]
@@ -1479,23 +1479,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-sk\\values-sk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2861",
-                        "endColumns": "100",
-                        "endOffsets": "2957"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-sk\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -1511,14 +1494,9 @@
                         "endColumns": "197",
                         "endOffsets": "1455"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-or\\values-or.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1529,11 +1507,16 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2883",
+                        "startOffsets": "2861",
                         "endColumns": "100",
-                        "endOffsets": "2979"
+                        "endOffsets": "2957"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-or_values-or.arsc.flat",
+            "map": [
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-or\\values.xml",
                     "from": {
@@ -1549,6 +1532,23 @@
                         "startOffsets": "105,218,411,546,665,880,1018,1163,1501,1728,1843,2035,2171,2382,2570,2665,2767",
                         "endColumns": "112,192,134,118,214,137,144,138,226,114,191,135,210,187,94,101,115",
                         "endOffsets": "213,406,541,660,875,1013,1158,1297,1723,1838,2030,2166,2377,2565,2660,2762,2878"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2883",
+                        "endColumns": "100",
+                        "endOffsets": "2979"
                     }
                 },
                 {
@@ -1574,23 +1574,6 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-eu_values-eu.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-eu\\values-eu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2891",
-                        "endColumns": "100",
-                        "endOffsets": "2987"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-eu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -1605,6 +1588,23 @@
                         "startOffsets": "105,211,419,547,658,864,993,1146,1483,1726,1836,2034,2166,2393,2582,2678,2773",
                         "endColumns": "105,207,127,110,205,128,152,135,242,109,197,131,226,188,95,94,117",
                         "endOffsets": "206,414,542,653,859,988,1141,1277,1721,1831,2029,2161,2388,2577,2673,2768,2886"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2891",
+                        "endColumns": "100",
+                        "endOffsets": "2987"
                     }
                 },
                 {
@@ -1647,23 +1647,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2848",
-                        "endColumns": "100",
-                        "endOffsets": "2944"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-lo\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -1678,6 +1661,23 @@
                         "startOffsets": "1279",
                         "endColumns": "190",
                         "endOffsets": "1465"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2848",
+                        "endColumns": "100",
+                        "endOffsets": "2944"
                     }
                 }
             ]
@@ -1703,7 +1703,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1742,7 +1742,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1757,7 +1757,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rCA_values-en-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1789,23 +1789,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-si\\values-si.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2784",
-                        "endColumns": "100",
-                        "endOffsets": "2880"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-si\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -1821,6 +1804,23 @@
                         "endColumns": "197",
                         "endOffsets": "1435"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2784",
+                        "endColumns": "100",
+                        "endOffsets": "2880"
+                    }
                 }
             ]
         },
@@ -1828,7 +1828,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1860,23 +1860,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-hu\\values-hu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "3022",
-                        "endColumns": "100",
-                        "endOffsets": "3118"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-hu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -1892,12 +1875,46 @@
                         "endColumns": "112,215,139,110,226,139,151,138,228,109,215,138,230,201,100,97,116",
                         "endOffsets": "213,429,569,680,907,1047,1199,1338,1803,1913,2129,2268,2499,2701,2802,2900,3017"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "3022",
+                        "endColumns": "100",
+                        "endOffsets": "3118"
+                    }
                 }
             ]
         },
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2855",
+                        "endColumns": "100",
+                        "endOffsets": "2951"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-sw\\values.xml",
                     "from": {
@@ -1913,23 +1930,6 @@
                         "startOffsets": "1278",
                         "endColumns": "204",
                         "endOffsets": "1478"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-sw\\values-sw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2855",
-                        "endColumns": "100",
-                        "endOffsets": "2951"
                     }
                 },
                 {
@@ -1972,7 +1972,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-in\\values-in.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-in\\values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2045,7 +2045,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-pt-rBR\\values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2086,23 +2086,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\02fa7a2d85545c9c2fccfed39ff3aef8\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
-                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
-                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
-                    },
-                    "to": {
-                        "startLines": "13,14,16,297,298,299,300,311,351,353,354,359,361",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "969,1058,1187,16757,16810,16863,16916,17459,21526,21702,21824,22086,22281",
-                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
-                        "endOffsets": "1053,1124,1255,16805,16858,16911,16964,17514,21587,21819,21880,22147,22343"
-                    }
-                },
-                {
                     "source": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -2120,7 +2103,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-1.0.0-rc01.aar\\6efdeac73e6cec1127cc8d53f2780d90\\res\\values\\values.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-1.0.0.aar\\eac1dc1422223a1f3e444c7e0b6244bf\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,13,102",
                         "startColumns": "4,4,4,4",
@@ -2175,7 +2158,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -2191,6 +2174,23 @@
                         "endLines": "11,12,15,17,24,166,198,235,242,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,301,302,303,304,305,306,307,308,309,310,313,340,346,350,352,358,360,362,363",
                         "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "901,964,1182,1329,1627,10352,12417,14177,14554,15356,15424,15496,15566,15627,15701,15774,15835,15896,15958,16022,16084,16145,16213,16313,16373,16439,16512,16581,16638,16690,16752,17036,17112,17147,17182,17232,17293,17350,17384,17419,17454,17652,20906,21320,21521,21697,22081,22276,22415,22482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\12a7950ae4a90e4eccf30dd74e101e6e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "13,14,16,297,298,299,300,311,351,353,354,359,361",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "969,1058,1187,16757,16810,16863,16916,17459,21526,21702,21824,22086,22281",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "1053,1124,1255,16805,16858,16911,16964,17514,21587,21819,21880,22147,22343"
                     }
                 }
             ]
@@ -2233,7 +2233,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2254,6 +2254,23 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-is_values-is.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2742",
+                        "endColumns": "100",
+                        "endOffsets": "2838"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-is\\values.xml",
                     "from": {
@@ -2286,23 +2303,6 @@
                         "startOffsets": "1237",
                         "endColumns": "187",
                         "endOffsets": "1420"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-is\\values-is.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2742",
-                        "endColumns": "100",
-                        "endOffsets": "2838"
                     }
                 }
             ]
@@ -2345,7 +2345,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2384,23 +2384,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2804",
-                        "endColumns": "100",
-                        "endOffsets": "2900"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -2416,14 +2399,9 @@
                         "endColumns": "207",
                         "endOffsets": "1465"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2434,11 +2412,16 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2770",
+                        "startOffsets": "2804",
                         "endColumns": "100",
-                        "endOffsets": "2866"
+                        "endOffsets": "2900"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-gu_values-gu.arsc.flat",
+            "map": [
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-gu\\values.xml",
                     "from": {
@@ -2472,12 +2455,46 @@
                         "endColumns": "109,197,126,113,196,123,140,128,206,109,194,126,201,179,90,95,110",
                         "endOffsets": "210,408,535,649,846,970,1111,1240,1653,1763,1958,2085,2287,2467,2558,2654,2765"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2770",
+                        "endColumns": "100",
+                        "endOffsets": "2866"
+                    }
                 }
             ]
         },
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-zu_values-zu.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2879",
+                        "endColumns": "100",
+                        "endOffsets": "2975"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-zu\\values.xml",
                     "from": {
@@ -2511,23 +2528,6 @@
                         "endColumns": "190",
                         "endOffsets": "1506"
                     }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-zu\\values-zu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2879",
-                        "endColumns": "100",
-                        "endOffsets": "2975"
-                    }
                 }
             ]
         },
@@ -2552,6 +2552,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2860",
+                        "endColumns": "100",
+                        "endOffsets": "2956"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-lt\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -2567,9 +2584,14 @@
                         "endColumns": "108,183,133,108,211,131,148,134,224,110,195,135,211,179,97,95,118",
                         "endOffsets": "209,393,527,636,848,980,1129,1264,1707,1818,2014,2150,2362,2542,2640,2736,2855"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
+            "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-lt\\values-lt.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-mr\\values-mr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2580,16 +2602,11 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2860",
+                        "startOffsets": "2752",
                         "endColumns": "100",
-                        "endOffsets": "2956"
+                        "endOffsets": "2848"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-mr_values-mr.arsc.flat",
-            "map": [
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-mr\\values.xml",
                     "from": {
@@ -2605,23 +2622,6 @@
                         "startOffsets": "1243",
                         "endColumns": "201",
                         "endOffsets": "1440"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-mr\\values-mr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2752",
-                        "endColumns": "100",
-                        "endOffsets": "2848"
                     }
                 },
                 {
@@ -2646,6 +2646,23 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2846",
+                        "endColumns": "100",
+                        "endOffsets": "2942"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-pl\\values.xml",
                     "from": {
@@ -2679,23 +2696,6 @@
                         "endColumns": "198",
                         "endOffsets": "1447"
                     }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-pl\\values-pl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2846",
-                        "endColumns": "100",
-                        "endOffsets": "2942"
-                    }
                 }
             ]
         },
@@ -2725,7 +2725,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-en-rXC\\values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2757,6 +2757,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2942",
+                        "endColumns": "100",
+                        "endOffsets": "3038"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-sq\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -2772,9 +2789,14 @@
                         "endColumns": "187",
                         "endOffsets": "1507"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
+            "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-sq\\values-sq.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2785,16 +2807,11 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2942",
+                        "startOffsets": "2852",
                         "endColumns": "100",
-                        "endOffsets": "3038"
+                        "endOffsets": "2948"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-vi_values-vi.arsc.flat",
-            "map": [
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-vi\\values.xml",
                     "from": {
@@ -2827,23 +2844,6 @@
                         "startOffsets": "105,209,403,530,639,863,995,1152,1480,1720,1829,2021,2153,2371,2550,2648,2742",
                         "endColumns": "103,193,126,108,223,131,156,132,239,108,191,131,217,178,97,93,109",
                         "endOffsets": "204,398,525,634,858,990,1147,1280,1715,1824,2016,2148,2366,2545,2643,2737,2847"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-vi\\values-vi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2852",
-                        "endColumns": "100",
-                        "endOffsets": "2948"
                     }
                 }
             ]
@@ -2886,7 +2886,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-am\\values-am.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2908,7 +2908,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2922,6 +2922,23 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-mk_values-mk.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2837",
+                        "endColumns": "100",
+                        "endOffsets": "2933"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-mk\\values.xml",
                     "from": {
@@ -2955,46 +2972,12 @@
                         "endColumns": "108,192,134,111,203,134,149,138,215,108,196,134,211,188,98,93,107",
                         "endOffsets": "209,402,537,649,853,988,1138,1277,1689,1798,1995,2130,2342,2531,2630,2724,2832"
                     }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-mk\\values-mk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2837",
-                        "endColumns": "100",
-                        "endOffsets": "2933"
-                    }
                 }
             ]
         },
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-fa_values-fa.arsc.flat",
             "map": [
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-fa\\values-fa.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2835",
-                        "endColumns": "100",
-                        "endOffsets": "2931"
-                    }
-                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-fa\\values.xml",
                     "from": {
@@ -3028,6 +3011,23 @@
                         "endColumns": "213",
                         "endOffsets": "1458"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2835",
+                        "endColumns": "100",
+                        "endOffsets": "2931"
+                    }
                 }
             ]
         },
@@ -3035,7 +3035,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ko\\values-ko.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3091,6 +3091,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2790",
+                        "endColumns": "100",
+                        "endOffsets": "2886"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-af\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -3105,23 +3122,6 @@
                         "startOffsets": "1257",
                         "endColumns": "201",
                         "endOffsets": "1454"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2790",
-                        "endColumns": "100",
-                        "endOffsets": "2886"
                     }
                 },
                 {
@@ -3164,23 +3164,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ne\\values-ne.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2933",
-                        "endColumns": "100",
-                        "endOffsets": "3029"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-ne\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -3195,6 +3178,23 @@
                         "startOffsets": "105,222,412,548,667,897,1035,1175,1532,1771,1891,2086,2225,2432,2614,2710,2812",
                         "endColumns": "116,189,135,118,229,137,139,133,238,119,194,138,206,181,95,101,120",
                         "endOffsets": "217,407,543,662,892,1030,1170,1304,1766,1886,2081,2220,2427,2609,2705,2807,2928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2933",
+                        "endColumns": "100",
+                        "endOffsets": "3029"
                     }
                 }
             ]
@@ -3220,23 +3220,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ro\\values-ro.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2854",
-                        "endColumns": "100",
-                        "endOffsets": "2950"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-ro\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -3252,12 +3235,46 @@
                         "endColumns": "108,191,130,110,209,133,152,137,220,111,189,133,204,195,100,96,110",
                         "endOffsets": "209,401,532,643,853,987,1140,1278,1703,1815,2005,2139,2344,2540,2641,2738,2849"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2854",
+                        "endColumns": "100",
+                        "endOffsets": "2950"
+                    }
                 }
             ]
         },
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2867",
+                        "endColumns": "100",
+                        "endOffsets": "2963"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-ru\\values.xml",
                     "from": {
@@ -3291,23 +3308,6 @@
                         "endColumns": "215",
                         "endOffsets": "1473"
                     }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ru\\values-ru.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2867",
-                        "endColumns": "100",
-                        "endOffsets": "2963"
-                    }
                 }
             ]
         },
@@ -3332,7 +3332,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3371,6 +3371,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ur_values-ur.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2833",
+                        "endColumns": "100",
+                        "endOffsets": "2929"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-ur\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -3403,46 +3420,12 @@
                         "endColumns": "109,195,127,112,198,128,141,132,210,111,202,129,204,198,92,96,116",
                         "endOffsets": "210,406,534,647,846,975,1117,1250,1672,1784,1987,2117,2322,2521,2614,2711,2828"
                     }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ur\\values-ur.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2833",
-                        "endColumns": "100",
-                        "endOffsets": "2929"
-                    }
                 }
             ]
         },
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-my_values-my.arsc.flat",
             "map": [
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-my\\values-my.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2948",
-                        "endColumns": "100",
-                        "endOffsets": "3044"
-                    }
-                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-my\\values.xml",
                     "from": {
@@ -3458,6 +3441,23 @@
                         "startOffsets": "1291",
                         "endColumns": "212",
                         "endOffsets": "1499"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2948",
+                        "endColumns": "100",
+                        "endOffsets": "3044"
                     }
                 },
                 {
@@ -3483,7 +3483,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-v24_values-v24.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\02fa7a2d85545c9c2fccfed39ff3aef8\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\12a7950ae4a90e4eccf30dd74e101e6e\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -3497,6 +3497,23 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2875",
+                        "endColumns": "100",
+                        "endOffsets": "2971"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-gl\\values.xml",
                     "from": {
@@ -3529,23 +3546,6 @@
                         "startOffsets": "1288",
                         "endColumns": "192",
                         "endOffsets": "1476"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-gl\\values-gl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2875",
-                        "endColumns": "100",
-                        "endOffsets": "2971"
                     }
                 }
             ]
@@ -3588,7 +3588,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3609,6 +3609,23 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2923",
+                        "endColumns": "100",
+                        "endOffsets": "3019"
+                    }
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-es-rUS\\values.xml",
                     "from": {
@@ -3642,9 +3659,14 @@
                         "endColumns": "109,197,133,109,219,132,152,134,229,110,200,134,235,207,99,91,106",
                         "endOffsets": "210,408,542,652,872,1005,1158,1293,1728,1839,2040,2175,2411,2619,2719,2811,2918"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
+            "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-et\\values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3655,16 +3677,11 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2923",
+                        "startOffsets": "2812",
                         "endColumns": "100",
-                        "endOffsets": "3019"
+                        "endOffsets": "2908"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-et_values-et.arsc.flat",
-            "map": [
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-et\\values.xml",
                     "from": {
@@ -3698,9 +3715,14 @@
                         "endColumns": "104,193,128,109,208,130,145,131,218,109,194,133,213,174,92,94,116",
                         "endOffsets": "205,399,528,638,847,978,1124,1256,1674,1784,1979,2113,2327,2502,2595,2690,2807"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
+            "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-et\\values-et.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-as\\values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3711,16 +3733,11 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2812",
+                        "startOffsets": "2714",
                         "endColumns": "100",
-                        "endOffsets": "2908"
+                        "endOffsets": "2810"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-as_values-as.arsc.flat",
-            "map": [
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-as\\values.xml",
                     "from": {
@@ -3736,23 +3753,6 @@
                         "startOffsets": "105,215,400,525,637,826,950,1093,1420,1622,1732,1912,2038,2229,2412,2502,2598",
                         "endColumns": "109,184,124,111,188,123,142,141,201,109,179,125,190,182,89,95,115",
                         "endOffsets": "210,395,520,632,821,945,1088,1230,1617,1727,1907,2033,2224,2407,2497,2593,2709"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-as\\values-as.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2714",
-                        "endColumns": "100",
-                        "endOffsets": "2810"
                     }
                 },
                 {
@@ -3777,23 +3777,6 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
             "map": [
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-nl\\values-nl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2900",
-                        "endColumns": "100",
-                        "endOffsets": "2996"
-                    }
-                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-nl\\values.xml",
                     "from": {
@@ -3827,6 +3810,23 @@
                         "endColumns": "111,186,131,112,225,128,152,134,236,107,199,127,221,211,97,92,107",
                         "endOffsets": "212,399,531,644,870,999,1152,1287,1726,1834,2034,2162,2384,2596,2694,2787,2895"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2900",
+                        "endColumns": "100",
+                        "endOffsets": "2996"
+                    }
                 }
             ]
         },
@@ -3834,7 +3834,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -3890,6 +3890,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2549",
+                        "endColumns": "100",
+                        "endOffsets": "2645"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-ja\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -3921,23 +3938,6 @@
                         "startOffsets": "105,211,377,499,607,796,918,1053,1362,1553,1656,1820,1941,2120,2270,2360,2449",
                         "endColumns": "105,165,121,107,188,121,134,127,190,102,163,120,178,149,89,88,99",
                         "endOffsets": "206,372,494,602,791,913,1048,1176,1548,1651,1815,1936,2115,2265,2355,2444,2544"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-ja\\values-ja.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2549",
-                        "endColumns": "100",
-                        "endOffsets": "2645"
                     }
                 }
             ]
@@ -3980,7 +3980,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4001,23 +4001,6 @@
         {
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-el_values-el.arsc.flat",
             "map": [
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-el\\values-el.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2960",
-                        "endColumns": "100",
-                        "endOffsets": "3056"
-                    }
-                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-el\\values.xml",
                     "from": {
@@ -4051,6 +4034,23 @@
                         "endColumns": "112,217,133,112,239,126,147,133,247,109,200,130,236,174,98,91,111",
                         "endOffsets": "213,431,565,678,918,1045,1193,1327,1798,1908,2109,2240,2477,2652,2751,2843,2955"
                     }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2960",
+                        "endColumns": "100",
+                        "endOffsets": "3056"
+                    }
                 }
             ]
         },
@@ -4075,6 +4075,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2909",
+                        "endColumns": "100",
+                        "endOffsets": "3005"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-hy\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4090,9 +4107,14 @@
                         "endColumns": "107,196,135,109,212,137,156,141,225,109,198,137,220,195,94,96,110",
                         "endOffsets": "208,405,541,651,864,1002,1159,1301,1737,1847,2046,2184,2405,2601,2696,2793,2904"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
+            "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-hy\\values-hy.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4103,16 +4125,11 @@
                     "to": {
                         "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2909",
+                        "startOffsets": "2664",
                         "endColumns": "100",
-                        "endOffsets": "3005"
+                        "endOffsets": "2760"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
-            "map": [
+                },
                 {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\59b9d8287f8b8a2ba72bea13db1b1aef\\res\\values-iw\\values.xml",
                     "from": {
@@ -4128,23 +4145,6 @@
                         "startOffsets": "1228",
                         "endColumns": "176",
                         "endOffsets": "1400"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-iw\\values-iw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2664",
-                        "endColumns": "100",
-                        "endOffsets": "2760"
                     }
                 },
                 {
@@ -4170,6 +4170,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-sl_values-sl.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2818",
+                        "endColumns": "100",
+                        "endOffsets": "2914"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4184,23 +4201,6 @@
                         "startOffsets": "105,213,410,541,650,856,988,1132,1464,1681,1790,1988,2120,2331,2513,2613,2705",
                         "endColumns": "107,196,130,108,205,131,143,132,216,108,197,131,210,181,99,91,112",
                         "endOffsets": "208,405,536,645,851,983,1127,1260,1676,1785,1983,2115,2326,2508,2608,2700,2813"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-sl\\values-sl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2818",
-                        "endColumns": "100",
-                        "endOffsets": "2914"
                     }
                 },
                 {
@@ -4243,23 +4243,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-th\\values-th.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2718",
-                        "endColumns": "100",
-                        "endOffsets": "2814"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-th\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4274,6 +4257,23 @@
                         "startOffsets": "105,213,392,517,626,821,947,1096,1421,1624,1731,1909,2033,2232,2413,2507,2605",
                         "endColumns": "107,178,124,108,194,125,148,136,202,106,177,123,198,180,93,97,112",
                         "endOffsets": "208,387,512,621,816,942,1091,1228,1619,1726,1904,2028,2227,2408,2502,2600,2713"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2718",
+                        "endColumns": "100",
+                        "endOffsets": "2814"
                     }
                 }
             ]
@@ -4316,7 +4316,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-mn\\values-mn.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4338,7 +4338,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-az_values-az.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-az\\values-az.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-az\\values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4394,7 +4394,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-bs_values-bs.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4450,6 +4450,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-kk_values-kk.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2811",
+                        "endColumns": "100",
+                        "endOffsets": "2907"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-kk\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4464,23 +4481,6 @@
                         "startOffsets": "105,210,395,523,631,830,958,1111,1472,1696,1804,1992,2123,2335,2522,2615,2704",
                         "endColumns": "104,184,127,107,198,127,152,137,223,107,187,130,211,186,92,88,106",
                         "endOffsets": "205,390,518,626,825,953,1106,1244,1691,1799,1987,2118,2330,2517,2610,2699,2806"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-kk\\values-kk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2811",
-                        "endColumns": "100",
-                        "endOffsets": "2907"
                     }
                 },
                 {
@@ -4506,7 +4506,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-de_values-de.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4579,23 +4579,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-it\\values-it.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2816",
-                        "endColumns": "100",
-                        "endOffsets": "2912"
-                    }
-                },
-                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-it\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4610,6 +4593,23 @@
                         "startOffsets": "105,212,395,522,632,849,979,1129,1457,1673,1782,1967,2096,2311,2522,2619,2710",
                         "endColumns": "106,182,126,109,216,129,149,132,215,108,184,128,214,210,96,90,105",
                         "endOffsets": "207,390,517,627,844,974,1124,1257,1668,1777,1962,2091,2306,2517,2614,2705,2811"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2816",
+                        "endColumns": "100",
+                        "endOffsets": "2912"
                     }
                 }
             ]
@@ -4635,6 +4635,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2765",
+                        "endColumns": "100",
+                        "endOffsets": "2861"
+                    }
+                },
+                {
                     "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\af9641ee27a304eae1e496c4fcd7d1a5\\res\\values-bn\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4649,23 +4666,6 @@
                         "startOffsets": "105,216,407,537,650,846,970,1112,1456,1660,1771,1958,2088,2281,2459,2549,2646",
                         "endColumns": "110,190,129,112,195,123,141,132,203,110,186,129,192,177,89,96,118",
                         "endOffsets": "211,402,532,645,841,965,1107,1240,1655,1766,1953,2083,2276,2454,2544,2641,2760"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-bn\\values-bn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2765",
-                        "endColumns": "100",
-                        "endOffsets": "2861"
                     }
                 }
             ]
@@ -4691,7 +4691,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -4730,7 +4730,7 @@
             "outputFile": "D:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\res\\merged\\debug\\values-sv_values-sv.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\a8c3d93c759afb4789108184fb69a5f0\\res\\values-sv\\values-sv.xml",
+                    "source": "C:\\Users\\german\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\74feeedf90e321b555ad8ee8e8cecda0\\res\\values-sv\\values-sv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
