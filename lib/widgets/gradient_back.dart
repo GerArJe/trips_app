@@ -10,14 +10,14 @@ class GradientBack extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     double screenHeight = MediaQuery.of(context).size.height;
-    double screenWitdht = MediaQuery.of(context).size.width;
+    double screenWidth = MediaQuery.of(context).size.width;
 
     if(height == null){
       height = screenHeight;
     }
 
     return Container(
-      width: screenWitdht,
+      width: screenWidth,
       height: height,
       decoration: BoxDecoration(
           gradient: LinearGradient(

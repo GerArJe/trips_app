@@ -36,7 +36,7 @@ class UserInfo extends StatelessWidget {
       children: <Widget>[
         Container(
             margin: EdgeInsets.only(
-                bottom: 5.0
+                bottom: 5.0,
             ),
             child: Text(
                 user.name,

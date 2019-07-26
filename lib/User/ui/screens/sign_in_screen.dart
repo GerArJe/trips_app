@@ -17,11 +17,11 @@ class SignInScreen extends StatefulWidget {
 class _SignInScreen extends State<SignInScreen> {
 
   UserBloc userBloc;
-  double screenWitdht;
+  double screenWidth;
 
   @override
   Widget build(BuildContext context) {
-    screenWitdht = MediaQuery.of(context).size.width;
+    screenWidth = MediaQuery.of(context).size.width;
     userBloc = BlocProvider.of(context);
     return _handleCurrentSession();
   }
@@ -51,7 +51,7 @@ class _SignInScreen extends State<SignInScreen> {
             children: <Widget>[
               Flexible(
                   child: Container(
-                    width: screenWitdht,
+                    width: screenWidth,
                     child: Text(
                       "Welcome \n This is your travel app",
                       style: TextStyle(
