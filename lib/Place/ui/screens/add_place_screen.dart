@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 import 'package:platzi_trips_app/Place/model/place.dart';
@@ -30,7 +31,6 @@ class _AddPlaceScreen extends State<AddPlaceScreen> {
   Widget build(BuildContext context) {
     // TODO: implement build
     UserBloc userBloc = BlocProvider.of<UserBloc>(context);
-
 
     return Scaffold(
       body: Stack(
@@ -102,8 +102,14 @@ class _AddPlaceScreen extends State<AddPlaceScreen> {
                   child: ButtonPurple(
                     buttonText: "Add Place",
                     onPressed: (){
-                      //1. Firebase Storage
-                      //url -
+                      //ID del usuario que esta logueado actualmente
+                      userBloc.currentUser.then((FirebaseUser user){
+                        if(user != null){
+                          //1. Firebase Storage
+                          //url -
+
+                        }
+                      });
 
                       //2. Cloud Firestore
                       //Place - title, description, url, userOwner, likes
