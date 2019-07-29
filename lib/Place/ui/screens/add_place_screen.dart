@@ -73,6 +73,7 @@ class _AddPlaceScreen extends State<AddPlaceScreen> {
                     width: 350.0,
                     height: 250.0,
                     left: 0,
+                    internet: false,
                   ),
                 ), //Foto
                 Container(//TextField Title
