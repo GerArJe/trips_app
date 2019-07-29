@@ -21,6 +21,7 @@ class CardImageList extends StatelessWidget {
             width: width,
             height: height,
             left: left,
+            internet: false,
           ),
           CardImageWithFabIcon(
             pathImage: "assets/img/mountain.jpeg",
@@ -28,6 +29,7 @@ class CardImageList extends StatelessWidget {
             width: width,
             height: height,
             left: left,
+            internet: false,
           ),
           CardImageWithFabIcon(
             pathImage: "assets/img/mountain_stars.jpeg",
@@ -35,6 +37,7 @@ class CardImageList extends StatelessWidget {
             width: width,
             height: height,
             left: left,
+            internet: false,
           ),
           CardImageWithFabIcon(
             pathImage: "assets/img/river.jpeg",
@@ -42,6 +45,7 @@ class CardImageList extends StatelessWidget {
             width: width,
             height: height,
             left: left,
+            internet: false,
           ),
           CardImageWithFabIcon(
             pathImage: "assets/img/sunset.jpeg",
@@ -49,6 +53,7 @@ class CardImageList extends StatelessWidget {
             width: width,
             height: height,
             left: left,
+            internet: false,
           ),
         ],
       ),
