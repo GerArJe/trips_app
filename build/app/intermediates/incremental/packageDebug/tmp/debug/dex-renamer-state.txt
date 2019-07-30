@@ -1,4 +1,4 @@
-#Tue Jul 30 16:53:23 COT 2019
+#Tue Jul 30 17:08:23 COT 2019
 base.10=D\:\\AndroidStudioProjects\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\20
 path.31=classes.dex
 path.30=classes.dex
