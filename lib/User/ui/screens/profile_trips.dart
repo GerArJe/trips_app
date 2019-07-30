@@ -20,10 +20,14 @@ class ProfileTrips extends StatelessWidget {
         builder: (BuildContext context, AsyncSnapshot snapshot){
           switch(snapshot.connectionState){
             case ConnectionState.waiting:
+              return CircularProgressIndicator();
             case ConnectionState.none:
+              return CircularProgressIndicator();
 
             case ConnectionState.active:
+              return showProfileData(snapshot);
             case ConnectionState.done:
+              return showProfileData(snapshot);
             default:
           }
         });
@@ -69,8 +73,8 @@ class ProfileTrips extends StatelessWidget {
           ProfileBackground(),
           ListView(
             children: <Widget>[
-              ProfileHeader(), //User datos
-              ProfilePlacesList() // User uid
+              ProfileHeader(user), //User datos
+              ProfilePlacesList(user) // User uid
             ],
           ),
         ],
