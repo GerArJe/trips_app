@@ -6,6 +6,17 @@ In this app, there is a Login Screen where you can signIn with Google, there is 
 
 You have access to the camera to capture moments in photos.
 
+<center>
+    <table>
+        <tbody>
+            <tr>
+                <td><img src="https://user-images.githubusercontent.com/46495565/62312699-7e41ba00-b454-11e9-8a39-94358451a7f0.png" height="500px" /></td>
+                <td><img src="https://user-images.githubusercontent.com/46495565/62312745-9ca7b580-b454-11e9-8fb4-2c6d7ecffff1.png" height="500px"/></td>
+            </tr>
+        </tbody>
+    </table>
+</center>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
