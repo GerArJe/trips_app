@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+In this app, there is a Login Screen where you can signIn with Google, there is a home screen where you can view the places that all the people upload and like, there is a profile screen where you can find personal information and own places, aditinal button + to add new places.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
