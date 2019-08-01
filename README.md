@@ -1,6 +1,6 @@
 # platzi_trips_app
 
-A new Flutter application.
+A new Flutter application about trips.
 
 In this app, there is a Login Screen where you can signIn with Google, there is a home screen where you can view the places that all the people upload and like, there is a profile screen where you can find personal information and own places, additional button + to add new places.
 
