@@ -6,6 +6,11 @@ In this app, there is a Login Screen where you can signIn with Google, there is 
 
 You have access to the camera to capture moments in photos.
 
+This app use:
+* Firebase Real Time.
+* Firebase Authentication.
+* Firebase Storage.
+
 <center>
     <table>
         <tbody>
